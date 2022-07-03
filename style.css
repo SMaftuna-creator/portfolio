@@ -378,22 +378,22 @@ nav ul:not(.socials) {
     transition: filter .3s, opacity .3s ease-out;
 }
 .brands ul li:nth-child(1){
-    background-image: url(assets/brands/tiktok.png);
+    background-image: url(assets/brands/figma.png);
 }
 .brands ul li:nth-child(2){
-    background-image: url(assets/brands/jabra.png);
+    background-image: url(assets/brands/canva.png);
 }
 .brands ul li:nth-child(3){
-    background-image: url(assets/brands/bmw.jpg);
+    background-image: url(assets/brands/tilda.png);
 }
 .brands ul li:nth-child(4){
-    background-image: url(assets/brands/benq.png);
+    background-image: url(assets/brands/trello.jpg);
 }
 .brands ul li:nth-child(5){
-    background-image: url(assets/brands/zoom.png);
+    background-image: url(assets/brands/wordpress.png);
 }
 .brands ul li:nth-child(6){
-    background-image: url(assets/brands/vimeo.png);
+    background-image: url(assets/brands/google.png);
 }
 .brands ul li:hover {
     opacity: 1;
